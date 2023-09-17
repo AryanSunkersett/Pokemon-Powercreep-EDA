@@ -29,16 +29,17 @@ Aim to quantify and show graphically the effects of powercreep on Pokemon over t
 <h2>Key learnings</h2>
 
 - prediction is that later gens should generally be more powerful over a number of factors. more of a known fact, but i just want to visualize it here and maybe find some more specific trends and reasons why this is the case
+- 
 
 
 
 <h2>Project status</h2>
 
-dataset secured, planning analysis and laying out structure of notebook
+data is ready to be analyzed, all topics for analysis have been set, only execution remains. time to get graphic!
 
 
 
 <h2>Credits</h2>
 
 - Author: Aryan Sunkersett
-- Dataset: Josh Korngiebel https://www.kaggle.com/datasets/jkorn28/pokemon-stats-gens-1-9 
+- Original Dataset: Josh Korngiebel https://www.kaggle.com/datasets/jkorn28/pokemon-stats-gens-1-9 
