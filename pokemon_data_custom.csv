@@ -1196,7 +1196,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 1011,Dipplin,Dipplin,GRASS,DRAGON,485,80,80,110,95,80,40,9,False,False,False
 1012,Poltchageist,Poltchageist,GRASS,GHOST,308,40,45,45,74,54,50,9,False,False,False
 1013,Sinistcha,Sinistcha,GRASS,GHOST,508,71,60,106,121,80,70,9,False,False,False
-1014,Okidogi,Okidogi,POISON,FIGHT,555,88,128,115,58,86,80,9,True,False,False
+1014,Okidogi,Okidogi,POISON,FIGHTING,555,88,128,115,58,86,80,9,True,False,False
 1015,Munkidori,Munkidori,POISON,PSYCHIC,555,88,75,66,130,90,106,9,True,False,False
 1016,Fezandipiti,Fezandipiti,POISON,FAIRY,555,88,91,82,70,125,99,9,True,False,False
 1017,Ogerpon,Ogerpon,GRASS,-,550,80,120,84,60,96,110,9,True,False,False
