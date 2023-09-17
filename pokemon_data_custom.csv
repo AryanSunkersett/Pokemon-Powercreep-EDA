@@ -2,27 +2,27 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 1,Bulbasaur,Bulbasaur,GRASS,POISON,318,45,49,49,65,65,45,1,False,False,False
 2,Ivysaur,Ivysaur,GRASS,POISON,405,60,62,63,80,80,60,1,False,False,False
 3,Venusaur,Venusaur,GRASS,POISON,525,80,82,83,100,100,80,1,False,False,False
-3,Mega Venusaur,Venusaur,GRASS,POISON,625,80,100,123,122,120,80,1,False,False,False
+3,Mega Venusaur,Venusaur,GRASS,POISON,625,80,100,123,122,120,80,6,False,False,False
 4,Charmander,Charmander,FIRE,-,309,39,52,43,60,50,65,1,False,False,False
 5,Charmeleon,Charmeleon,FIRE,-,405,58,64,58,80,65,80,1,False,False,False
 6,Charizard,Charizard,FIRE,FLYING,534,78,84,78,109,85,100,1,False,False,False
-6,Mega Charizard X,Charizard,FIRE,DRAGON,634,78,130,111,130,85,100,1,False,False,False
-6,Mega Charizard Y,Charizard,FIRE,FLYING,634,78,104,78,159,115,100,1,False,False,False
+6,Mega Charizard X,Charizard,FIRE,DRAGON,634,78,130,111,130,85,100,6,False,False,False
+6,Mega Charizard Y,Charizard,FIRE,FLYING,634,78,104,78,159,115,100,6,False,False,False
 7,Squirtle,Squirtle,WATER,-,314,44,48,65,50,64,43,1,False,False,False
 8,Wartortle,Wartortle,WATER,-,405,59,63,80,65,80,58,1,False,False,False
 9,Blastoise,Blastoise,WATER,-,530,79,83,100,85,105,78,1,False,False,False
-9,Mega Blastoise,Blastoise,WATER,-,630,79,103,120,135,115,78,1,False,False,False
+9,Mega Blastoise,Blastoise,WATER,-,630,79,103,120,135,115,78,6,False,False,False
 10,Caterpie,Caterpie,BUG,-,195,45,30,35,20,20,45,1,False,False,False
 11,Metapod,Metapod,BUG,-,205,50,20,55,25,25,30,1,False,False,False
 12,Butterfree,Butterfree,BUG,FLYING,395,60,45,50,90,80,70,1,False,False,False
 13,Weedle,Weedle,BUG,POISON,195,40,35,30,20,20,50,1,False,False,False
 14,Kakuna,Kakuna,BUG,POISON,205,45,25,50,25,25,35,1,False,False,False
 15,Beedrill,Beedrill,BUG,POISON,395,65,90,40,45,80,75,1,False,False,False
-15,Mega Beedrill,Beedrill,BUG,POISON,495,65,150,40,15,80,145,1,False,False,False
+15,Mega Beedrill,Beedrill,BUG,POISON,495,65,150,40,15,80,145,6,False,False,False
 16,Pidgey,Pidgey,NORMAL,FLYING,251,40,45,40,35,35,56,1,False,False,False
 17,Pidgeotto,Pidgeotto,NORMAL,FLYING,349,63,60,55,50,50,71,1,False,False,False
 18,Pidgeot,Pidgeot,NORMAL,FLYING,479,83,80,75,70,70,101,1,False,False,False
-18,Mega Pidgeot,Pidgeot,NORMAL,FLYING,579,83,80,80,135,80,121,1,False,False,False
+18,Mega Pidgeot,Pidgeot,NORMAL,FLYING,579,83,80,80,135,80,121,6,False,False,False
 19,Rattata,Rattata,NORMAL,-,253,30,56,35,25,35,72,1,False,False,False
 19,Alolan Rattata,Rattata,DARK,NORMAL,253,30,56,35,25,35,72,1,False,False,False
 20,Raticate,Raticate,NORMAL,-,413,55,81,60,50,70,97,1,False,False,False
@@ -85,7 +85,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 63,Abra,Abra,PSYCHIC,-,310,25,20,15,105,55,90,1,False,False,False
 64,Kadabra,Kadabra,PSYCHIC,-,400,40,35,30,120,70,105,1,False,False,False
 65,Alakazam,Alakazam,PSYCHIC,-,500,55,50,45,135,95,120,1,False,False,False
-65,Mega Alakazam,Alakazam,PSYCHIC,-,600,55,50,65,175,105,150,1,False,False,False
+65,Mega Alakazam,Alakazam,PSYCHIC,-,600,55,50,65,175,105,150,6,False,False,False
 66,Machop,Machop,FIGHTING,-,305,70,80,50,35,35,35,1,False,False,False
 67,Machoke,Machoke,FIGHTING,-,405,80,100,70,50,60,45,1,False,False,False
 68,Machamp,Machamp,FIGHTING,-,505,90,130,80,65,85,55,1,False,False,False
@@ -107,7 +107,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 79,Slowpoke,Slowpoke,WATER,PSYCHIC,315,90,65,65,40,40,15,1,False,False,False
 79,Galarian Slowpoke,Slowpoke,PSYCHIC,-,315,90,65,65,40,40,15,1,False,False,False
 80,Slowbro,Slowbro,WATER,PSYCHIC,490,95,75,110,100,80,30,1,False,False,False
-80,Mega Slowbro,Slowbro,WATER,PSYCHIC,590,95,75,180,130,80,30,1,False,False,False
+80,Mega Slowbro,Slowbro,WATER,PSYCHIC,590,95,75,180,130,80,30,6,False,False,False
 80,Galarian Slowbro,Slowbro,POISON,PSYCHIC,490,95,100,95,100,70,30,1,False,False,False
 81,Magnemite,Magnemite,ELECTRIC,STEEL,325,25,35,70,95,55,45,1,False,False,False
 82,Magneton,Magneton,ELECTRIC,STEEL,465,50,60,95,120,70,70,1,False,False,False
@@ -126,7 +126,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 92,Gastly,Gastly,GHOST,POISON,310,30,35,30,100,35,80,1,False,False,False
 93,Haunter,Haunter,GHOST,POISON,405,45,50,45,115,55,95,1,False,False,False
 94,Gengar,Gengar,GHOST,POISON,500,60,65,60,130,75,110,1,False,False,False
-94,Mega Gengar,Gengar,GHOST,POISON,600,60,65,80,170,95,130,1,False,False,False
+94,Mega Gengar,Gengar,GHOST,POISON,600,60,65,80,170,95,130,6,False,False,False
 95,Onix,Onix,ROCK,GROUND,385,35,45,160,30,45,70,1,False,False,False
 96,Drowzee,Drowzee,PSYCHIC,-,328,60,48,45,43,90,42,1,False,False,False
 97,Hypno,Hypno,PSYCHIC,-,483,85,73,70,73,115,67,1,False,False,False
@@ -153,7 +153,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 113,Chansey,Chansey,NORMAL,-,450,250,5,5,35,105,50,1,False,False,False
 114,Tangela,Tangela,GRASS,-,435,65,55,115,100,40,60,1,False,False,False
 115,Kangaskhan,Kangaskhan,NORMAL,-,490,105,95,80,40,80,90,1,False,False,False
-115,Mega Kangaskhan,Kangaskhan,NORMAL,-,590,105,125,100,60,100,100,1,False,False,False
+115,Mega Kangaskhan,Kangaskhan,NORMAL,-,590,105,125,100,60,100,100,6,False,False,False
 116,Horsea,Horsea,WATER,-,295,30,40,70,70,25,60,1,False,False,False
 117,Seadra,Seadra,WATER,-,440,55,65,95,95,45,85,1,False,False,False
 118,Goldeen,Goldeen,WATER,-,320,45,67,60,35,50,63,1,False,False,False
@@ -167,14 +167,14 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 125,Electabuzz,Electabuzz,ELECTRIC,-,490,65,83,57,95,85,105,1,False,False,False
 126,Magmar,Magmar,FIRE,-,495,65,95,57,100,85,93,1,False,False,False
 127,Pinsir,Pinsir,BUG,-,500,65,125,100,55,70,85,1,False,False,False
-127,Mega Pinsir,Pinsir,BUG,FLYING,600,65,155,120,65,90,105,1,False,False,False
+127,Mega Pinsir,Pinsir,BUG,FLYING,600,65,155,120,65,90,105,6,False,False,False
 128,Tauros,Tauros,NORMAL,-,490,75,100,95,40,70,110,1,False,False,False
-128,Combat Breed,Tauros,FIGHTING,-,490,75,110,105,30,70,100,1,False,False,False
-128,Blaze Breed,Tauros,FIGHTING,FIRE,490,75,110,105,30,70,100,1,False,False,False
-128,Aqua Breed,Tauros,FIGHTING,WATER,490,75,110,105,30,70,100,1,False,False,False
+128,Combat Breed,Tauros,FIGHTING,-,490,75,110,105,30,70,100,9,False,False,False
+128,Blaze,Tauros,FIGHTING,FIRE,490,75,110,105,30,70,100,1,False,False,False
+128,Aqua Breed,Tauros,FIGHTING,WATER,490,75,110,105,30,70,100,9,False,False,False
 129,Magikarp,Magikarp,WATER,-,200,20,10,55,15,20,80,1,False,False,False
 130,Gyarados,Gyarados,WATER,FLYING,540,95,125,79,60,100,81,1,False,False,False
-130,Mega Gyarados,Gyarados,WATER,DARK,640,95,155,109,70,130,81,1,False,False,False
+130,Mega Gyarados,Gyarados,WATER,DARK,640,95,155,109,70,130,81,6,False,False,False
 131,Lapras,Lapras,WATER,ICE,535,130,85,80,85,95,60,1,False,False,False
 132,Ditto,Ditto,NORMAL,-,288,48,48,48,48,48,48,1,False,False,False
 133,Eevee,Eevee,NORMAL,-,325,55,55,50,45,65,55,1,False,False,False
@@ -188,7 +188,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 140,Kabuto,Kabuto,ROCK,WATER,355,30,80,90,55,45,55,1,False,False,False
 141,Kabutops,Kabutops,ROCK,WATER,495,60,115,105,65,70,80,1,False,False,False
 142,Aerodactyl,Aerodactyl,ROCK,FLYING,515,80,105,65,60,75,130,1,False,False,False
-142,Mega Aerodactyl,Aerodactyl,ROCK,FLYING,615,80,135,85,70,95,150,1,False,False,False
+142,Mega Aerodactyl,Aerodactyl,ROCK,FLYING,615,80,135,85,70,95,150,6,False,False,False
 143,Snorlax,Snorlax,NORMAL,-,540,160,110,65,65,110,30,1,False,False,False
 144,Articuno,Articuno,ICE,FLYING,580,90,85,100,95,125,85,1,True,False,False
 144,Galarian Articuno,Articuno,PSYCHIC,FLYING,580,90,85,85,125,100,95,1,True,False,False
@@ -200,8 +200,8 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 148,Dragonair,Dragonair,DRAGON,-,420,61,84,65,70,70,70,1,False,False,False
 149,Dragonite,Dragonite,DRAGON,FLYING,600,91,134,95,100,100,80,1,False,False,True
 150,Mewtwo,Mewtwo,PSYCHIC,-,680,106,110,90,154,90,130,1,True,False,False
-150,Mega Mewtwo X,Mewtwo,PSYCHIC,FIGHTING,780,106,190,100,154,100,130,1,True,False,False
-150,Mega Mewtwo Y,Mewtwo,PSYCHIC,-,780,106,150,70,194,120,140,1,True,False,False
+150,Mega Mewtwo X,Mewtwo,PSYCHIC,FIGHTING,780,106,190,100,154,100,130,6,True,False,False
+150,Mega Mewtwo Y,Mewtwo,PSYCHIC,-,780,106,150,70,194,120,140,6,True,False,False
 151,Mew,Mew,PSYCHIC,-,600,100,100,100,100,100,100,1,False,True,False
 152,Chikorita,Chikorita,GRASS,-,318,45,49,65,49,65,45,2,False,False,False
 153,Bayleef,Bayleef,GRASS,-,405,60,62,80,63,80,60,2,False,False,False
@@ -234,7 +234,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 179,Mareep,Mareep,ELECTRIC,-,280,55,40,40,65,45,35,2,False,False,False
 180,Flaaffy,Flaaffy,ELECTRIC,-,365,70,55,55,80,60,45,2,False,False,False
 181,Ampharos,Ampharos,ELECTRIC,-,510,90,75,85,115,90,55,2,False,False,False
-181,Mega Ampharos,Ampharos,ELECTRIC,DRAGON,610,90,95,105,165,110,45,2,False,False,False
+181,Mega Ampharos,Ampharos,ELECTRIC,DRAGON,610,90,95,105,165,110,45,6,False,False,False
 182,Bellossom,Bellossom,GRASS,-,490,75,80,95,90,100,50,2,False,False,False
 183,Marill,Marill,WATER,FAIRY,250,70,20,50,20,50,40,2,False,False,False
 184,Azumarill,Azumarill,WATER,FAIRY,420,100,50,80,60,80,50,2,False,False,False
@@ -264,16 +264,16 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 206,Dunsparce,Dunsparce,NORMAL,-,415,100,70,70,65,65,45,2,False,False,False
 207,Gligar,Gligar,GROUND,FLYING,430,65,75,105,35,65,85,2,False,False,False
 208,Steelix,Steelix,STEEL,GROUND,510,75,85,200,55,65,30,2,False,False,False
-208,Mega Steelix,Steelix,STEEL,GROUND,610,75,125,230,55,95,30,2,False,False,False
+208,Mega Steelix,Steelix,STEEL,GROUND,610,75,125,230,55,95,30,6,False,False,False
 209,Snubbull,Snubbull,FAIRY,-,300,60,80,50,40,40,30,2,False,False,False
 210,Granbull,Granbull,FAIRY,-,450,90,120,75,60,60,45,2,False,False,False
 211,Qwilfish,Qwilfish,WATER,POISON,440,65,95,85,55,55,85,2,False,False,False
 211,Hisuian Qwilfish,Qwilfish,DARK,POISON,440,65,95,85,55,55,85,2,False,False,False
 212,Scizor,Scizor,BUG,STEEL,500,70,130,100,55,80,65,2,False,False,False
-212,Mega Scizor,Scizor,BUG,STEEL,600,70,150,140,65,100,75,2,False,False,False
+212,Mega Scizor,Scizor,BUG,STEEL,600,70,150,140,65,100,75,6,False,False,False
 213,Shuckle,Shuckle,BUG,ROCK,505,20,10,230,10,230,5,2,False,False,False
 214,Heracross,Heracross,BUG,FIGHTING,500,80,125,75,40,95,85,2,False,False,False
-214,Mega Heracross,Heracross,BUG,FIGHTING,600,80,185,115,40,105,75,2,False,False,False
+214,Mega Heracross,Heracross,BUG,FIGHTING,600,80,185,115,40,105,75,6,False,False,False
 215,Sneasel,Sneasel,DARK,ICE,430,55,95,55,35,75,115,2,False,False,False
 215,Hisuian Sneasel,Sneasel,FIGHTING,POISON,430,55,95,55,35,75,115,2,False,False,False
 216,Teddiursa,Teddiursa,NORMAL,-,330,60,80,50,50,50,40,2,False,False,False
@@ -291,7 +291,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 227,Skarmory,Skarmory,STEEL,FLYING,465,65,80,140,40,70,70,2,False,False,False
 228,Houndour,Houndour,DARK,FIRE,330,45,60,30,80,50,65,2,False,False,False
 229,Houndoom,Houndoom,DARK,FIRE,500,75,90,50,110,80,95,2,False,False,False
-229,Mega Houndoom,Houndoom,DARK,FIRE,600,75,90,90,140,90,115,2,False,False,False
+229,Mega Houndoom,Houndoom,DARK,FIRE,600,75,90,90,140,90,115,6,False,False,False
 230,Kingdra,Kingdra,WATER,DRAGON,540,75,95,95,95,95,85,2,False,False,False
 231,Phanpy,Phanpy,GROUND,-,330,90,60,60,40,40,40,2,False,False,False
 232,Donphan,Donphan,GROUND,-,500,90,120,120,60,60,50,2,False,False,False
@@ -311,22 +311,22 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 246,Larvitar,Larvitar,ROCK,GROUND,300,50,64,50,45,50,41,2,False,False,False
 247,Pupitar,Pupitar,ROCK,GROUND,410,70,84,70,65,70,51,2,False,False,False
 248,Tyranitar,Tyranitar,ROCK,DARK,600,100,134,110,95,100,61,2,False,False,True
-248,Mega Tyranitar,Tyranitar,ROCK,DARK,700,100,164,150,95,120,71,2,False,False,True
+248,Mega Tyranitar,Tyranitar,ROCK,DARK,700,100,164,150,95,120,71,6,False,False,True
 249,Lugia,Lugia,PSYCHIC,FLYING,680,106,90,130,90,154,110,2,True,False,False
 250,Ho-oh,Ho-oh,FIRE,FLYING,680,106,130,90,110,154,90,2,False,False,False
 251,Celebi,Celebi,PSYCHIC,GRASS,600,100,100,100,100,100,100,2,False,True,False
 252,Treecko,Treecko,GRASS,-,310,40,45,35,65,55,70,3,False,False,False
 253,Grovyle,Grovyle,GRASS,-,405,50,65,45,85,65,95,3,False,False,False
 254,Sceptile,Sceptile,GRASS,-,530,70,85,65,105,85,120,3,False,False,False
-254,Mega Sceptile,Sceptile,GRASS,DRAGON,630,70,110,75,145,85,145,3,False,False,False
+254,Mega Sceptile,Sceptile,GRASS,DRAGON,630,70,110,75,145,85,145,6,False,False,False
 255,Torchic,Torchic,FIRE,-,310,45,60,40,70,50,45,3,False,False,False
 256,Combusken,Combusken,FIRE,FIGHTING,405,60,85,60,85,60,55,3,False,False,False
 257,Blaziken,Blaziken,FIRE,FIGHTING,530,80,120,70,110,70,80,3,False,False,False
-257,Mega Blaziken,Blaziken,FIRE,FIGHTING,630,80,160,80,130,80,100,3,False,False,False
+257,Mega Blaziken,Blaziken,FIRE,FIGHTING,630,80,160,80,130,80,100,6,False,False,False
 258,Mudkip,Mudkip,WATER,-,310,50,70,50,50,50,40,3,False,False,False
 259,Marshtomp,Marshtomp,WATER,GROUND,405,70,85,70,60,70,50,3,False,False,False
 260,Swampert,Swampert,WATER,GROUND,535,100,110,90,85,90,60,3,False,False,False
-260,Mega Swampert,Swampert,WATER,GROUND,635,100,150,110,95,110,70,3,False,False,False
+260,Mega Swampert,Swampert,WATER,GROUND,635,100,150,110,95,110,70,6,False,False,False
 261,Poochyena,Poochyena,DARK,-,220,35,55,35,30,30,35,3,False,False,False
 262,Mightyena,Mightyena,DARK,-,420,70,90,70,60,60,70,3,False,False,False
 263,Zigzagoon,Zigzagoon,NORMAL,-,240,38,30,41,30,41,60,3,False,False,False
@@ -351,7 +351,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 280,Ralts,Ralts,PSYCHIC,FAIRY,198,28,25,25,45,35,40,3,False,False,False
 281,Kirlia,Kirlia,PSYCHIC,FAIRY,278,38,35,35,65,55,50,3,False,False,False
 282,Gardevoir,Gardevoir,PSYCHIC,FAIRY,518,68,65,65,125,115,80,3,False,False,False
-282,Mega Gardevoir,Gardevoir,PSYCHIC,FAIRY,618,68,85,65,165,135,100,3,False,False,False
+282,Mega Gardevoir,Gardevoir,PSYCHIC,FAIRY,618,68,85,65,165,135,100,6,False,False,False
 283,Surskit,Surskit,BUG,WATER,269,40,30,32,50,52,65,3,False,False,False
 284,Masquerain,Masquerain,BUG,FLYING,454,70,60,62,100,82,80,3,False,False,False
 285,Shroomish,Shroomish,GRASS,-,295,60,40,60,40,60,35,3,False,False,False
@@ -372,19 +372,19 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 300,Skitty,Skitty,NORMAL,-,260,50,45,45,35,35,50,3,False,False,False
 301,Delcatty,Delcatty,NORMAL,-,400,70,65,65,55,55,90,3,False,False,False
 302,Sableye,Sableye,DARK,GHOST,380,50,75,75,65,65,50,3,False,False,False
-302,Mega Sableye,Sableye,DARK,GHOST,480,50,85,125,85,115,20,3,False,False,False
+302,Mega Sableye,Sableye,DARK,GHOST,480,50,85,125,85,115,20,6,False,False,False
 303,Mawile,Mawile,STEEL,FAIRY,380,50,85,85,55,55,50,3,False,False,False
-303,Mega Mawile,Mawile,STEEL,FAIRY,480,50,105,125,55,95,50,3,False,False,False
+303,Mega Mawile,Mawile,STEEL,FAIRY,480,50,105,125,55,95,50,6,False,False,False
 304,Aron,Aron,STEEL,ROCK,330,50,70,100,40,40,30,3,False,False,False
 305,Lairon,Lairon,STEEL,ROCK,430,60,90,140,50,50,40,3,False,False,False
 306,Aggron,Aggron,STEEL,ROCK,530,70,110,180,60,60,50,3,False,False,False
-306,Mega Aggron,Aggron,STEEL,-,630,70,140,230,60,80,50,3,False,False,False
+306,Mega Aggron,Aggron,STEEL,-,630,70,140,230,60,80,50,6,False,False,False
 307,Meditite,Meditite,FIGHTING,PSYCHIC,280,30,40,55,40,55,60,3,False,False,False
 308,Medicham,Medicham,FIGHTING,PSYCHIC,410,60,60,75,60,75,80,3,False,False,False
-308,Mega Medicham,Medicham,FIGHTING,PSYCHIC,510,60,100,85,80,85,100,3,False,False,False
+308,Mega Medicham,Medicham,FIGHTING,PSYCHIC,510,60,100,85,80,85,100,6,False,False,False
 309,Electrike,Electrike,ELECTRIC,-,295,40,45,40,65,40,65,3,False,False,False
 310,Manectric,Manectric,ELECTRIC,-,475,70,75,60,105,60,105,3,False,False,False
-310,Mega Manectric,Manectric,ELECTRIC,-,575,70,75,80,135,80,135,3,False,False,False
+310,Mega Manectric,Manectric,ELECTRIC,-,575,70,75,80,135,80,135,6,False,False,False
 311,Plusle,Plusle,ELECTRIC,-,405,60,50,40,85,75,95,3,False,False,False
 312,Minun,Minun,ELECTRIC,-,405,60,40,50,75,85,95,3,False,False,False
 313,Volbeat,Volbeat,BUG,-,430,65,73,75,47,85,85,3,False,False,False
@@ -394,12 +394,12 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 317,Swalot,Swalot,POISON,-,467,100,73,83,73,83,55,3,False,False,False
 318,Carvanha,Carvanha,WATER,DARK,305,45,90,20,65,20,65,3,False,False,False
 319,Sharpedo,Sharpedo,WATER,DARK,460,70,120,40,95,40,95,3,False,False,False
-319,Mega Sharpedo,Sharpedo,WATER,DARK,560,70,140,70,110,65,105,3,False,False,False
+319,Mega Sharpedo,Sharpedo,WATER,DARK,560,70,140,70,110,65,105,6,False,False,False
 320,Wailmer,Wailmer,WATER,-,400,130,70,35,70,35,60,3,False,False,False
 321,Wailord,Wailord,WATER,-,500,170,90,45,90,45,60,3,False,False,False
 322,Numel,Numel,FIRE,GROUND,305,60,60,40,65,45,35,3,False,False,False
 323,Camerupt,Camerupt,FIRE,GROUND,460,70,100,70,105,75,40,3,False,False,False
-323,Mega Camerupt,Camerupt,FIRE,GROUND,560,70,120,100,145,105,20,3,False,False,False
+323,Mega Camerupt,Camerupt,FIRE,GROUND,560,70,120,100,145,105,20,6,False,False,False
 324,Torkoal,Torkoal,FIRE,-,470,70,85,140,85,70,20,3,False,False,False
 325,Spoink,Spoink,PSYCHIC,-,330,60,25,35,70,80,60,3,False,False,False
 326,Grumpig,Grumpig,PSYCHIC,-,470,80,45,65,90,110,80,3,False,False,False
@@ -411,7 +411,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 332,Cacturne,Cacturne,GRASS,DARK,475,70,115,60,115,60,55,3,False,False,False
 333,Swablu,Swablu,NORMAL,FLYING,310,45,40,60,40,75,50,3,False,False,False
 334,Altaria,Altaria,DRAGON,FLYING,490,75,70,90,70,105,80,3,False,False,False
-334,Mega Altaria,Altaria,DRAGON,FAIRY,590,75,110,110,110,105,80,3,False,False,False
+334,Mega Altaria,Altaria,DRAGON,FAIRY,590,75,110,110,110,105,80,6,False,False,False
 335,Zangoose,Zangoose,NORMAL,-,458,73,115,60,60,60,90,3,False,False,False
 336,Seviper,Seviper,POISON,-,458,73,100,60,100,60,65,3,False,False,False
 337,Lunatone,Lunatone,ROCK,PSYCHIC,460,90,55,65,95,85,70,3,False,False,False
@@ -435,17 +435,17 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 352,Kecleon,Kecleon,NORMAL,-,440,60,90,70,60,120,40,3,False,False,False
 353,Shuppet,Shuppet,GHOST,-,295,44,75,35,63,33,45,3,False,False,False
 354,Banette,Banette,GHOST,-,455,64,115,65,83,63,65,3,False,False,False
-354,Mega Banette,Banette,GHOST,-,555,64,165,75,93,83,75,3,False,False,False
+354,Mega Banette,Banette,GHOST,-,555,64,165,75,93,83,75,6,False,False,False
 355,Duskull,Duskull,GHOST,-,295,20,40,90,30,90,25,3,False,False,False
 356,Dusclops,Dusclops,GHOST,-,455,40,70,130,60,130,25,3,False,False,False
 357,Tropius,Tropius,GRASS,FLYING,460,99,68,83,72,87,51,3,False,False,False
 358,Chimecho,Chimecho,PSYCHIC,-,455,75,50,80,95,90,65,3,False,False,False
 359,Absol,Absol,DARK,-,465,65,130,60,75,60,75,3,False,False,False
-359,Mega Absol,Absol,DARK,-,565,65,150,60,115,60,115,3,False,False,False
+359,Mega Absol,Absol,DARK,-,565,65,150,60,115,60,115,6,False,False,False
 360,Wynaut,Wynaut,PSYCHIC,-,260,95,23,48,23,48,23,3,False,False,False
 361,Snorunt,Snorunt,ICE,-,300,50,50,50,50,50,50,3,False,False,False
 362,Glalie,Glalie,ICE,-,480,80,80,80,80,80,80,3,False,False,False
-362,Mega Glalie,Glalie,ICE,-,580,80,120,80,120,80,100,3,False,False,False
+362,Mega Glalie,Glalie,ICE,-,580,80,120,80,120,80,100,6,False,False,False
 363,Spheal,Spheal,ICE,WATER,290,70,40,50,55,50,25,3,False,False,False
 364,Sealeo,Sealeo,ICE,WATER,410,90,60,70,75,70,45,3,False,False,False
 365,Walrein,Walrein,ICE,WATER,530,110,80,90,95,90,65,3,False,False,False
@@ -457,24 +457,24 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 371,Bagon,Bagon,DRAGON,-,300,45,75,60,40,30,50,3,False,False,False
 372,Shelgon,Shelgon,DRAGON,-,420,65,95,100,60,50,50,3,False,False,False
 373,Salamence,Salamence,DRAGON,FLYING,600,95,135,80,110,80,100,3,False,False,True
-373,Mega Salamence,Salamence,DRAGON,FLYING,700,95,145,130,120,90,120,3,False,False,True
+373,Mega Salamence,Salamence,DRAGON,FLYING,700,95,145,130,120,90,120,6,False,False,True
 374,Beldum,Beldum,STEEL,PSYCHIC,300,40,55,80,35,60,30,3,False,False,False
 375,Metang,Metang,STEEL,PSYCHIC,420,60,75,100,55,80,50,3,False,False,False
 376,Metagross,Metagross,STEEL,PSYCHIC,600,80,135,130,95,90,70,3,False,False,True
-376,Mega Metagross,Metagross,STEEL,PSYCHIC,700,80,145,150,105,110,110,3,False,False,True
+376,Mega Metagross,Metagross,STEEL,PSYCHIC,700,80,145,150,105,110,110,6,False,False,True
 377,Regirock,Regirock,ROCK,-,580,80,100,200,50,100,50,3,True,False,False
 378,Regice,Regice,ICE,-,580,80,50,100,100,200,50,3,True,False,False
 379,Registeel,Registeel,STEEL,-,580,80,75,150,75,150,50,3,True,False,False
 380,Latias,Latias,DRAGON,PSYCHIC,600,80,80,90,110,130,110,3,True,False,False
-380,Mega Latias,Latias,DRAGON,PSYCHIC,700,80,100,120,140,150,110,3,True,False,False
+380,Mega Latias,Latias,DRAGON,PSYCHIC,700,80,100,120,140,150,110,6,True,False,False
 381,Latios,Latios,DRAGON,PSYCHIC,600,80,90,80,130,110,110,3,True,False,False
-381,Mega Latios,Latios,DRAGON,PSYCHIC,700,80,130,100,160,120,110,3,True,False,False
+381,Mega Latios,Latios,DRAGON,PSYCHIC,700,80,130,100,160,120,110,6,True,False,False
 382,Kyogre,Kyogre,WATER,-,670,100,100,90,150,140,90,3,True,False,False
 382,Primal Kyogre,Kyogre,WATER,-,770,100,150,90,180,160,90,3,True,False,False
 383,Groudon,Groudon,GROUND,-,670,100,150,140,100,90,90,3,True,False,False
 383,Primal Groudon,Groudon,GROUND,FIRE,770,100,180,160,150,90,90,3,True,False,False
 384,Rayquaza,Rayquaza,DRAGON,FLYING,680,105,150,90,150,90,95,3,True,False,False
-384,Mega Rayquaza,Rayquaza,DRAGON,FLYING,780,105,180,100,180,100,115,3,True,False,False
+384,Mega Rayquaza,Rayquaza,DRAGON,FLYING,780,105,180,100,180,100,115,6,True,False,False
 385,Jirachi,Jirachi,STEEL,PSYCHIC,600,100,100,100,100,100,100,3,False,True,False
 386,Normal Forme,Deoxys,PSYCHIC,-,600,50,150,50,150,50,150,3,False,True,False
 386,Attack Forme,Deoxys,PSYCHIC,-,600,50,180,20,180,20,150,3,False,True,False
@@ -526,7 +526,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 426,Drifblim,Drifblim,GHOST,FLYING,498,150,80,44,90,54,80,4,False,False,False
 427,Buneary,Buneary,NORMAL,-,350,55,66,44,44,56,85,4,False,False,False
 428,Lopunny,Lopunny,NORMAL,-,480,65,76,84,54,96,105,4,False,False,False
-428,Mega Lopunny,Lopunny,NORMAL,FIGHTING,580,65,136,94,54,96,135,4,False,False,False
+428,Mega Lopunny,Lopunny,NORMAL,FIGHTING,580,65,136,94,54,96,135,6,False,False,False
 429,Mismagius,Mismagius,GHOST,-,495,60,60,60,105,105,105,4,False,False,False
 430,Honchkrow,Honchkrow,DARK,FLYING,505,100,125,52,105,52,71,4,False,False,False
 431,Glameow,Glameow,NORMAL,-,310,49,55,42,42,37,85,4,False,False,False
@@ -544,11 +544,11 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 443,Gible,Gible,DRAGON,GROUND,300,58,70,45,40,45,42,4,False,False,False
 444,Gabite,Gabite,DRAGON,GROUND,410,68,90,65,50,55,82,4,False,False,False
 445,Garchomp,Garchomp,DRAGON,GROUND,600,108,130,95,80,85,102,4,False,False,True
-445,Mega Garchomp,Garchomp,DRAGON,GROUND,700,108,170,115,120,95,92,4,False,False,True
+445,Mega Garchomp,Garchomp,DRAGON,GROUND,700,108,170,115,120,95,92,6,False,False,True
 446,Munchlax,Munchlax,NORMAL,-,390,135,85,40,40,85,5,4,False,False,False
 447,Riolu,Riolu,FIGHTING,-,285,40,70,40,35,40,60,4,False,False,False
 448,Lucario,Lucario,FIGHTING,STEEL,525,70,110,70,115,70,90,4,False,False,False
-448,Mega Lucario,Lucario,FIGHTING,STEEL,625,70,145,88,140,70,112,4,False,False,False
+448,Mega Lucario,Lucario,FIGHTING,STEEL,625,70,145,88,140,70,112,6,False,False,False
 449,Hippopotas,Hippopotas,GROUND,-,330,68,72,78,38,42,32,4,False,False,False
 450,Hippowdon,Hippowdon,GROUND,-,525,108,112,118,68,72,47,4,False,False,False
 451,Skorupi,Skorupi,POISON,BUG,330,40,50,90,30,55,65,4,False,False,False
@@ -561,7 +561,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 458,Mantyke,Mantyke,WATER,FLYING,345,45,20,50,60,120,50,4,False,False,False
 459,Snover,Snover,GRASS,ICE,334,60,62,50,62,60,40,4,False,False,False
 460,Abomasnow,Abomasnow,GRASS,ICE,494,90,92,75,92,85,60,4,False,False,False
-460,Mega Abomasnow,Abomasnow,GRASS,ICE,594,90,132,105,132,105,30,4,False,False,False
+460,Mega Abomasnow,Abomasnow,GRASS,ICE,594,90,132,105,132,105,30,6,False,False,False
 461,Weavile,Weavile,DARK,ICE,510,70,120,65,45,85,125,4,False,False,False
 462,Magnezone,Magnezone,ELECTRIC,STEEL,535,70,70,115,130,90,60,4,False,False,False
 463,Lickilicky,Lickilicky,NORMAL,-,515,110,85,95,80,95,50,4,False,False,False
@@ -577,7 +577,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 473,Mamoswine,Mamoswine,ICE,GROUND,530,110,130,80,70,60,80,4,False,False,False
 474,Porygon-Z,Porygon-Z,NORMAL,-,535,85,80,70,135,75,90,4,False,False,False
 475,Gallade,Gallade,PSYCHIC,FIGHTING,518,68,125,65,65,115,80,4,False,False,False
-475,Mega Gallade,Gallade,PSYCHIC,FIGHTING,618,68,165,95,65,115,110,4,False,False,False
+475,Mega Gallade,Gallade,PSYCHIC,FIGHTING,618,68,165,95,65,115,110,6,False,False,False
 476,Probopass,Probopass,ROCK,STEEL,525,60,55,145,75,150,40,4,False,False,False
 477,Dusknoir,Dusknoir,GHOST,-,525,45,100,135,65,135,45,4,False,False,False
 478,Froslass,Froslass,ICE,GHOST,480,70,80,70,80,70,110,4,False,False,False
@@ -644,7 +644,7 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 529,Drilbur,Drilbur,GROUND,-,328,60,85,40,30,45,68,5,False,False,False
 530,Excadrill,Excadrill,GROUND,STEEL,508,110,135,60,50,65,88,5,False,False,False
 531,Audino,Audino,NORMAL,-,445,103,60,86,60,86,50,5,False,False,False
-531,Mega Audino,Audino,NORMAL,FAIRY,545,103,60,126,80,126,50,5,False,False,False
+531,Mega Audino,Audino,NORMAL,FAIRY,545,103,60,126,80,126,50,6,False,False,False
 532,Timburr,Timburr,FIGHTING,-,305,75,80,55,25,35,35,5,False,False,False
 533,Gurdurr,Gurdurr,FIGHTING,-,405,85,105,85,40,50,40,5,False,False,False
 534,Conkeldurr,Conkeldurr,FIGHTING,-,505,105,140,95,55,65,45,5,False,False,False
