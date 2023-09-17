@@ -1193,10 +1193,10 @@ Dex No,Name,Base Name,Type 1,Type 2,BST,HP,Attack,Defense,Sp. Attack,Sp. Defense
 1008,Miraidon,Miraidon,ELECTRIC,DRAGON,670,100,85,100,135,115,135,9,True,False,False
 1009,Walking Wake,Walking Wake,WATER,DRAGON,590,99,83,91,125,83,109,9,False,False,True
 1010,Iron Leaves,Iron Leaves,GRASS,PSYCHIC,590,90,130,88,70,108,104,9,False,False,True
-1011,Dipplin,Dipplin,Grass,Dragon,485,80,80,110,95,80,40,9,False,False,False
-1012,Poltchageist,Poltchageist,Grass,Ghost,308,40,45,45,74,54,50,9,False,False,False
-1013,Sinistcha,Sinistcha,Grass,Ghost,508,71,60,106,121,80,70,9,False,False,False
-1014,Okidogi,Okidogi,Poison,Fight,555,88,128,115,58,86,80,9,True,False,False
-1015,Munkidori,Munkidori,Poison,Psychic,555,88,75,66,130,90,106,9,True,False,False
-1016,Fezandipiti,Fezandipiti,Poison,Fairy,555,88,91,82,70,125,99,9,True,False,False
-1017,Ogerpon,Ogerpon,Grass,-,550,80,120,84,60,96,110,9,True,False,False
+1011,Dipplin,Dipplin,GRASS,DRAGON,485,80,80,110,95,80,40,9,False,False,False
+1012,Poltchageist,Poltchageist,GRASS,GHOST,308,40,45,45,74,54,50,9,False,False,False
+1013,Sinistcha,Sinistcha,GRASS,GHOST,508,71,60,106,121,80,70,9,False,False,False
+1014,Okidogi,Okidogi,POISON,FIGHT,555,88,128,115,58,86,80,9,True,False,False
+1015,Munkidori,Munkidori,POISON,PSYCHIC,555,88,75,66,130,90,106,9,True,False,False
+1016,Fezandipiti,Fezandipiti,POISON,FAIRY,555,88,91,82,70,125,99,9,True,False,False
+1017,Ogerpon,Ogerpon,GRASS,-,550,80,120,84,60,96,110,9,True,False,False
