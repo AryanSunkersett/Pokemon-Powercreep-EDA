@@ -1,42 +1,34 @@
 <h2>Background</h2>
 
-write about what the concept of powercreep is, not just in pokemon but in all games. explanation of base stats and how pokemon works in general. acknowledge that base stats alone do not make a pokemon good. Explain what smogon is
+Powercreep, a prevalent concept in gaming, including the Pokemon franchise, involves the gradual escalation of power in new game content when compared to older elements. In Pokemon, this phenomenon can be almost directly measured through Smogon usage rates, which are published monthly. These usage rates reflect the popularity of specific Pokémon in competitive battles, and they provide a tangible indicator of how powercreep impacts the metagame. 
+
+The implications of powercreep extend beyond just raw stats; they influence the strategies players employ in battles. As new Pokemon become more powerful, older ones may fall out of favor, altering the dynamics of competitive play. It's a dynamic process where staying up-to-date with the evolving metagame is essential for success. Consequently, the careful balance between introducing exciting new content and maintaining competitive fairness remains a critical challenge for game developers in the Pokémon series. While powercreep has been generally agreed upon to have always existed in some form or the other in Pokemon, the recent generations, 8 and 9, have been particularly egregious.
+
 
 
 
 <h2>Goal</h2>
 
-Aim to quantify and show graphically the effects of powercreep on Pokemon over the years in a way that can be understood even by people who dont play pokemon or games in general.
+We aim to both visualize powercreep and find the cause of its manifestation in Pokemon. The writing should be clear enough so that those who only have a cursory understanding of what Pokemon is should be able to understand the analysis.
 
 
 
 <h2>Analysis</h2>
 
-- general pokemon stats first
-  - type distribution and number of pokemon on per gen. show a graph of type resistances from somewhere else and maybe calculate the average "strength" of tyes, both defensively and offensively that way
-  - types per gen
-  - generally other basic pokemon stuff
-  - which pokemon are generally more powerful (spoiler alert, legendaries and pseudo legendaries)
-
-- powercreep stuff
-  - base stat totals/speed by generation (most important base stat)
-  - min maxing of base stats (pokemon with more specialized roles like physical attackers vs mixed attackers) note: will have to explain this concept briefly
-  - move pool power (if able to get smogon data joined or another data source for it, fingers crossed)
-  - if get access to smogon usage rates, graph the generations of the top smogon used pokemon in standard play, known as OU. also graph the top threats in Ubers, the highest tier of play. note: will have to explain what the tiers are
+Briefly, the main points of analysis will be focused around the distribution of base stats and their totals. Some additional analysis will be done on type distribution and 'special' Pokemon, such as Legendary and Mythical Pokemon.
 
 
 
 <h2>Key learnings</h2>
 
-- prediction is that later gens should generally be more powerful over a number of factors. more of a known fact, but i just want to visualize it here and maybe find some more specific trends and reasons why this is the case
-- 
+- Despite the last two generations making up over 60% of the top 50 standard play, or OU, Smogon Pokemon, they show comparatively little difference in stat distributions and totals. 
+- This suggests the stats have much less to do with the competitive Pokemon metagame than one would think, and what makes a top tier Pokemon lies in movepool and abilities.
 
 
 
 <h2>Project status</h2>
 
-data is ready to be analyzed, all topics for analysis have been set, only execution remains. time to get graphic!
-
+Done!
 
 
 <h2>Credits</h2>
